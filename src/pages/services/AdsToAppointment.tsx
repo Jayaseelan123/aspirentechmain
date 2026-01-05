@@ -90,7 +90,7 @@ const AdsToAppointment = () => {
     "Financial Services",
     "Beauty & Wellness",
     "Professional Services",
-    "Automotive",
+    "Automobile",
     "Home Services",
   ];
 

@@ -70,9 +70,8 @@ const PerformanceMarketing = () => {
     "Google Ads",
     "Facebook Ads",
     "LinkedIn Ads",
-    "Microsoft Ads",
-    "Amazon Ads",
-    "TikTok Ads",
+    "Instagram Ads",
+    
   ];
 
   return (

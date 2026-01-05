@@ -198,7 +198,7 @@ const Contact = () => {
                   href="mailto:info@aspirentech.in"
                   className="text-primary font-medium hover:text-accent transition-colors"
                 >
-                  info@aspirentech.in
+                  info@aspirentech.com
                 </a>
               </div>
 
@@ -209,7 +209,7 @@ const Contact = () => {
                   href="tel:+919876543210"
                   className="text-primary font-medium hover:text-accent transition-colors"
                 >
-                  +91 98765 43210
+                  +91 9750359750
                 </a>
               </div>
 
@@ -217,7 +217,7 @@ const Contact = () => {
                 <Clock className="w-8 h-8 text-success mb-4" />
                 <h3 className="text-lg font-semibold mb-2">Business Hours</h3>
                 <div className="text-muted-foreground space-y-1">
-                  <p>Mon - Fri: 9:00 AM - 6:00 PM</p>
+                  <p>Mon - Fri: 9:30 AM - 6:30 PM</p>
                   <p>Saturday: 10:00 AM - 4:00 PM</p>
                   <p>Sunday: Closed</p>
                 </div>
@@ -260,13 +260,26 @@ const Contact = () => {
             <div className="bg-white rounded-2xl p-6 shadow-card">
               <h3 className="text-xl font-semibold mb-4">Krishnagiri Office</h3>
               <div className="aspect-video bg-secondary rounded-lg flex items-center justify-center text-muted-foreground">
-                Google Maps - Krishnagiri Location
+                <iframe
+                src="https://www.google.com/maps?q=Krishnagiri%20Tamil%20Nadu&output=embed"
+                width="100%"
+                height="300"
+                loading="lazy"
+                className="rounded-lg border"
+              ></iframe>
               </div>
             </div>
             <div className="bg-white rounded-2xl p-6 shadow-card">
               <h3 className="text-xl font-semibold mb-4">Chennai Office</h3>
               <div className="aspect-video bg-secondary rounded-lg flex items-center justify-center text-muted-foreground">
-                Google Maps - Chennai Location
+                
+                 <iframe
+                src="https://www.google.com/maps?q=Chennai%20Tamil%20Nadu&output=embed"
+                width="100%"
+                height="300"
+                loading="lazy"
+                className="rounded-lg border"
+              ></iframe>
               </div>
             </div>
           </div>

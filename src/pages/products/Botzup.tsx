@@ -79,11 +79,12 @@ const Botzup = () => {
             <div className="relative mt-12 lg:mt-0 order-1 lg:order-2">
               <div className="absolute -inset-10 bg-white/20 blur-3xl rounded-full"></div>
               <div className="relative rounded-3xl overflow-hidden shadow-2xl border border-white/20 bg-white/10 min-h-[300px]">
-                <img
-                  src={BotzupHeroV2}
-                  alt="AI Chatbot Illustration"
-                  className="relative w-full h-auto object-cover transition-transform duration-500 hover:-rotate-1"
-                />
+              <img
+                src={BotzupHeroV2}
+                alt="AI Chatbot Illustration"
+                className="relative w-full max-h-[600px] object-cover transition-transform duration-500 hover:-rotate-1"
+              />
+
               </div>
               {/* Floating element */}
               <div className="absolute -bottom-6 -right-6 bg-white p-4 rounded-2xl shadow-2xl text-blue-600 animate-bounce-slow hidden md:block">

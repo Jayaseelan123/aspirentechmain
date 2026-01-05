@@ -187,13 +187,7 @@ const SEOServices = () => {
                 <ArrowRight className="ml-2 h-5 w-5" />
               </Button>
             </Link>
-            <Button
-              size="lg"
-              variant="outline"
-              className="border-2 border-blue-500 text-blue-600 font-semibold hover:bg-blue-50 shadow-md"
-            >
-              Call Now: +91 98765 43210
-            </Button>
+
           </div>
         </div>
       </section>

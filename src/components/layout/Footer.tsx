@@ -37,7 +37,7 @@ const Footer = () => {
             </div>
 
             <p className="text-white/80 mb-6 leading-relaxed">
-              Leading Martech Company and SaaS product development
+              Leading Maartech Company and SaaS product development
               company, serving 7+ international and 250+ Indian clients since
               2019.
             </p>
@@ -122,7 +122,7 @@ const Footer = () => {
                   href="mailto:info@aspirentech.in"
                   className="text-white/80 hover:text-white transition-colors"
                 >
-                  info@aspirentech.in
+                  info@aspirentech.com
                 </a>
               </div>
 

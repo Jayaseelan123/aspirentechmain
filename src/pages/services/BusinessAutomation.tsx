@@ -120,7 +120,7 @@ const BusinessAutomation = () => {
               <div className="absolute -inset-4 bg-white/20 blur-3xl rounded-full"></div>
               <div className="relative rounded-3xl overflow-hidden shadow-2xl border border-white/20 bg-white/10 min-h-[300px]">
                 <img
-                  src="https://images.unsplash.com/photo-1485827404703-89b55fcc595e?q=80&w=2070&auto=format&fit=crop"
+                  src="/src/assets/auto.png"
                   alt="Futuristic Business Automation and Digital Transformation"
                   className="relative w-full h-auto object-cover transition-transform duration-500 hover:scale-[1.02]"
                 />

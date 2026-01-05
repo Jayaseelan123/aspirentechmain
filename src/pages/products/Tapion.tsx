@@ -78,7 +78,7 @@ const Tapion = () => {
                   <ArrowRight className="w-5 h-5 ml-2" />
                 </Link>
                 <a
-                  href="https://app.tapion.in/login"
+                  href="https://tapion.in/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-flex items-center justify-center px-8 py-4 rounded-xl border-2 border-white text-white font-bold hover:bg-white hover:text-blue-600 transition-all"

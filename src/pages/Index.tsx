@@ -22,7 +22,7 @@ import Logo9 from '@/assets/logo9.png';
 import BotzupLogo from '@/assets/botzup.png';
 import ZiyaLogo from '@/assets/ziya-logo.png';
 import TapionLogo from '@/assets/tapion-logo.png';
-import EcomLogo from '@/assets/kartly-logo.png';
+import EcomLogo from '@/assets/tyg.png';
 
 const Index = () => {
   const services = [

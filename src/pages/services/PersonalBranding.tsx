@@ -104,8 +104,9 @@ const PersonalBranding = () => {
                 <img
                   src="https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?q=80&w=2576&auto=format&fit=crop"
                   alt="Professional Personal Branding"
-                  className="w-full h-auto"
+                  className="w-full max-h-[600px] object-cover"
                 />
+
               </div>
             </div>
           </div>
@@ -120,7 +121,7 @@ const PersonalBranding = () => {
           speaking opportunities in just 2 months!"
         </blockquote>
         <cite className="text-green-600 font-semibold">
-          – Priya Sharma, Marketing Director
+          
         </cite>
       </section>
 
